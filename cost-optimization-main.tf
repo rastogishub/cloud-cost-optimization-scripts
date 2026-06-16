@@ -2,7 +2,7 @@
 # Cloud Cost Optimization Scripts - Infrastructure
 # Author : Shubham Rastogi
 # Automates identification of idle / oversized resources
-# Strategy that contributed to $500K+ OPEX savings at Avantor
+# Strategy that contributed to $1M+ OPEX savings for enterprises.
 # =============================================================
 
 terraform {
